@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DrillBit.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6ABE135D443B7AF0440F4A976BC5B54883C36DB1</string>
+				<key>dateExpires</key>
+				<string>10/30/25</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>MSAG5KPFBE.apple.com.DrillBit</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>MSAG5KPFBE</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>DrillBit.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>8148e222-e2c6-4329-abc0-acc40302419f</string>
+				<key>dateExpires</key>
+				<string>10/30/25</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>MSAG5KPFBE</string>
+				<key>name</key>
+				<string>Alex Fox</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>

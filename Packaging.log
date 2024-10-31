@@ -1,0 +1,120 @@
+2024-10-31 03:14:57 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x3470bd690; archive(resolved)="<IDEArchive: 0x600015253100>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x60001a253840; teamID='MSAG5KPFBE', teamName='Alex Fox', teamType='Individual', username='alex.d.fox@icloud.com', isFreeProvisioningTeam='0'>">
+	Chain (15, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x3470bd690; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001a253840; teamID='MSAG5KPFBE', teamName='Alex Fox', teamType='Individual', username='alex.d.fox@icloud.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x32677bef0; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001a253840; teamID='MSAG5KPFBE', teamName='Alex Fox', teamType='Individual', username='alex.d.fox@icloud.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x354a569c0; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001a253840; teamID='MSAG5KPFBE', teamName='Alex Fox', teamType='Individual', username='alex.d.fox@icloud.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x125758870; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001a253840; teamID='MSAG5KPFBE', teamName='Alex Fox', teamType='Individual', username='alex.d.fox@icloud.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x12564bd20; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001a253840; teamID='MSAG5KPFBE', teamName='Alex Fox', teamType='Individual', username='alex.d.fox@icloud.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x125613dd0; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001a253840; teamID='MSAG5KPFBE', teamName='Alex Fox', teamType='Individual', username='alex.d.fox@icloud.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x125753a20; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001a253840; teamID='MSAG5KPFBE', teamName='Alex Fox', teamType='Individual', username='alex.d.fox@icloud.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x125753570; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001a253840; teamID='MSAG5KPFBE', teamName='Alex Fox', teamType='Individual', username='alex.d.fox@icloud.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x344b8da90; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x60001a253840; teamID='MSAG5KPFBE', teamName='Alex Fox', teamType='Individual', username='alex.d.fox@icloud.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x3470f35a0; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="(null)">
+	<IDEDistributionContext: 0x12563d460; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="(null)">
+	<IDEDistributionContext: 0x125753810; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="(null)">
+	<IDEDistributionContext: 0x125650350; archive = "<IDEArchive: 0x600015253100>", distributionMethod="<IDEDistributionMethodDevelopmentSigned: 0x60000bb035f0>", team="(null)">
+	<IDEDistributionContext: 0x125751ad0; archive = "<IDEArchive: 0x600015253100>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x125648470; archive = "<IDEArchive: 0x600015253100>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x3470bd690>
+2024-10-31 03:14:57 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-10-31 03:14:57 +0000  Processing step: IDEDistributionCopyItemStep
+2024-10-31 03:14:57 +0000  Running /usr/bin/ditto '-V' '/Users/alexanderfox/Library/Developer/Xcode/Archives/2024-10-30/DrillBit 10-30-24, 10.12 PM.xcarchive/Products/Applications/DrillBit.app' '/var/folders/ls/34dv7fcj6n787npdd3bdm1s00000gn/T/XcodeDistPipeline.~~~v9ZF9Y/Root/Payload/DrillBit.app'
+2024-10-31 03:14:57 +0000  >>> Copying /Users/alexanderfox/Library/Developer/Xcode/Archives/2024-10-30/DrillBit 10-30-24, 10.12 PM.xcarchive/Products/Applications/DrillBit.app 
+2024-10-31 03:14:57 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-10-31 03:14:57 +0000  2111 bytes for ./_CodeSignature/CodeResources
+2024-10-31 03:14:57 +0000  copying file ./embedded.mobileprovision ... 
+2024-10-31 03:14:57 +0000  12726 bytes for ./embedded.mobileprovision
+2024-10-31 03:14:57 +0000  copying file ./Info.plist ... 
+2024-10-31 03:14:57 +0000  1242 bytes for ./Info.plist
+2024-10-31 03:14:57 +0000  copying file ./DrillBit ... 
+2024-10-31 03:14:57 +0000  99872 bytes for ./DrillBit
+2024-10-31 03:14:57 +0000  copying file ./PkgInfo ... 
+2024-10-31 03:14:57 +0000  8 bytes for ./PkgInfo
+2024-10-31 03:14:57 +0000  /usr/bin/ditto exited with 0
+2024-10-31 03:14:57 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-10-31 03:14:57 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-10-31 03:14:57 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-10-31 03:14:57 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-10-31 03:14:57 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-10-31 03:14:57 +0000  Processing step: IDEDistributionSymbolsStep
+2024-10-31 03:14:57 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-10-31 03:14:57 +0000  Processing step: IDEDistributionAppThinningStep
+2024-10-31 03:14:57 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-10-31 03:14:57 +0000  Processing step: IDEDistributionArchThinningStep
+2024-10-31 03:14:57 +0000  Item /Users/alexanderfox/Library/Developer/Xcode/Archives/2024-10-30/DrillBit 10-30-24, 10.12 PM.xcarchive/Products/Applications/DrillBit.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-10-31 03:14:57 +0000  Archs to thin for item /Users/alexanderfox/Library/Developer/Xcode/Archives/2024-10-30/DrillBit 10-30-24, 10.12 PM.xcarchive/Products/Applications/DrillBit.app are ["arm64e"]
+2024-10-31 03:14:57 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/ls/34dv7fcj6n787npdd3bdm1s00000gn/T/XcodeDistPipeline.~~~v9ZF9Y/Root/Payload/DrillBit.app/DrillBit' '-verify_arch' 'arm64e'
+2024-10-31 03:14:57 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-10-31 03:14:57 +0000  Skipping architecture thinning for item "DrillBit" because arch "arm64e" wasn't found
+2024-10-31 03:14:57 +0000  Processing step: IDEDistributionODRStep
+2024-10-31 03:14:57 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-10-31 03:14:57 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-10-31 03:14:57 +0000  Processing step: IDEDistributionCodesignStep
+2024-10-31 03:14:57 +0000  Entitlements for <IDEDistributionItem: 0x600029d85f80; bundleID='apple.com.DrillBit', path='<DVTFilePath:0x600029d53f60:'/Users/alexanderfox/Library/Developer/Xcode/Archives/2024-10-30/DrillBit 10-30-24, 10.12 PM.xcarchive/Products/Applications/DrillBit.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600025965bd0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600008c3eb80; name='Apple Development: Alex Fox (S7H3V3FWUD)', hash='6ABE135D443B7AF0440F4A976BC5B54883C36DB1', serialNumber='3CF7F1F26154014C1189E4B1C859D760', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-10-31 02:44:19 +0000''>', entitlements='{
+    "application-identifier" = "MSAG5KPFBE.apple.com.DrillBit";
+    "com.apple.developer.team-identifier" = MSAG5KPFBE;
+    "get-task-allow" = 1;
+}', teamID='MSAG5KPFBE', identifier='apple.com.DrillBit', executablePath='<DVTFilePath:0x600029d6bcc0:'/Users/alexanderfox/Library/Developer/Xcode/Archives/2024-10-30/DrillBit 10-30-24, 10.12 PM.xcarchive/Products/Applications/DrillBit.app/DrillBit'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "MSAG5KPFBE.apple.com.DrillBit";
+    "com.apple.developer.team-identifier" = MSAG5KPFBE;
+    "get-task-allow" = 1;
+}
+2024-10-31 03:14:57 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-10-31 03:14:57 +0000  Entitlements for <IDEDistributionItem: 0x600029d85f80; bundleID='apple.com.DrillBit', path='<DVTFilePath:0x600029d53f60:'/Users/alexanderfox/Library/Developer/Xcode/Archives/2024-10-30/DrillBit 10-30-24, 10.12 PM.xcarchive/Products/Applications/DrillBit.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600025965bd0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600008c3f180; name='Apple Development: Alex Fox (S7H3V3FWUD)', hash='6ABE135D443B7AF0440F4A976BC5B54883C36DB1', serialNumber='3CF7F1F26154014C1189E4B1C859D760', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-10-31 02:44:19 +0000''>', entitlements='{
+    "application-identifier" = "MSAG5KPFBE.apple.com.DrillBit";
+    "com.apple.developer.team-identifier" = MSAG5KPFBE;
+    "get-task-allow" = 1;
+}', teamID='MSAG5KPFBE', identifier='apple.com.DrillBit', executablePath='<DVTFilePath:0x600029d6bcc0:'/Users/alexanderfox/Library/Developer/Xcode/Archives/2024-10-30/DrillBit 10-30-24, 10.12 PM.xcarchive/Products/Applications/DrillBit.app/DrillBit'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "MSAG5KPFBE.apple.com.DrillBit";
+    "com.apple.developer.team-identifier" = MSAG5KPFBE;
+    "get-task-allow" = 1;
+}
+2024-10-31 03:14:57 +0000  Writing entitlements for <IDEDistributionItem: 0x600029d85f80; bundleID='apple.com.DrillBit', path='<DVTFilePath:0x600029d53f60:'/Users/alexanderfox/Library/Developer/Xcode/Archives/2024-10-30/DrillBit 10-30-24, 10.12 PM.xcarchive/Products/Applications/DrillBit.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x600025965bd0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600008c3f240; name='Apple Development: Alex Fox (S7H3V3FWUD)', hash='6ABE135D443B7AF0440F4A976BC5B54883C36DB1', serialNumber='3CF7F1F26154014C1189E4B1C859D760', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-10-31 02:44:19 +0000''>', entitlements='{
+    "application-identifier" = "MSAG5KPFBE.apple.com.DrillBit";
+    "com.apple.developer.team-identifier" = MSAG5KPFBE;
+    "get-task-allow" = 1;
+}', teamID='MSAG5KPFBE', identifier='apple.com.DrillBit', executablePath='<DVTFilePath:0x600029d6bcc0:'/Users/alexanderfox/Library/Developer/Xcode/Archives/2024-10-30/DrillBit 10-30-24, 10.12 PM.xcarchive/Products/Applications/DrillBit.app/DrillBit'>', hardenedRuntime='0'>'> to: /var/folders/ls/34dv7fcj6n787npdd3bdm1s00000gn/T/XcodeDistPipeline.~~~v9ZF9Y/entitlements~~~ehxDq3
+2024-10-31 03:14:57 +0000  invoking codesign: <NSConcreteTask: 0x600025ac6080; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    6ABE135D443B7AF0440F4A976BC5B54883C36DB1,
+    "--entitlements",
+    "/var/folders/ls/34dv7fcj6n787npdd3bdm1s00000gn/T/XcodeDistPipeline.~~~v9ZF9Y/entitlements~~~ehxDq3",
+    "--preserve-metadata=identifier,flags,runtime",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/ls/34dv7fcj6n787npdd3bdm1s00000gn/T/XcodeDistPipeline.~~~v9ZF9Y/Root/Payload/DrillBit.app"
+)'>
+2024-10-31 03:15:03 +0000  codesign output: /var/folders/ls/34dv7fcj6n787npdd3bdm1s00000gn/T/XcodeDistPipeline.~~~v9ZF9Y/Root/Payload/DrillBit.app: replacing existing signature
+/var/folders/ls/34dv7fcj6n787npdd3bdm1s00000gn/T/XcodeDistPipeline.~~~v9ZF9Y/Root/Payload/DrillBit.app: signed app bundle with Mach-O thin (arm64) [apple.com.DrillBit]
+2024-10-31 03:15:03 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-10-31 03:15:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-10-31 03:15:03 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-10-31 03:15:03 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/ls/34dv7fcj6n787npdd3bdm1s00000gn/T/XcodeDistPipeline.~~~v9ZF9Y/Root' '/var/folders/ls/34dv7fcj6n787npdd3bdm1s00000gn/T/XcodeDistPipeline.~~~v9ZF9Y/Packages/DrillBit.ipa'
+2024-10-31 03:15:03 +0000  >>> Copying /var/folders/ls/34dv7fcj6n787npdd3bdm1s00000gn/T/XcodeDistPipeline.~~~v9ZF9Y/Root 
+2024-10-31 03:15:03 +0000  copying file ./Payload/DrillBit.app/_CodeSignature/CodeResources ... 
+2024-10-31 03:15:03 +0000  2111 bytes for ./Payload/DrillBit.app/_CodeSignature/CodeResources
+2024-10-31 03:15:03 +0000  copying file ./Payload/DrillBit.app/embedded.mobileprovision ... 
+2024-10-31 03:15:03 +0000  12726 bytes for ./Payload/DrillBit.app/embedded.mobileprovision
+2024-10-31 03:15:03 +0000  copying file ./Payload/DrillBit.app/Info.plist ... 
+2024-10-31 03:15:03 +0000  1242 bytes for ./Payload/DrillBit.app/Info.plist
+2024-10-31 03:15:03 +0000  copying file ./Payload/DrillBit.app/DrillBit ... 
+2024-10-31 03:15:03 +0000  99872 bytes for ./Payload/DrillBit.app/DrillBit
+2024-10-31 03:15:03 +0000  copying file ./Payload/DrillBit.app/PkgInfo ... 
+2024-10-31 03:15:03 +0000  8 bytes for ./Payload/DrillBit.app/PkgInfo
+2024-10-31 03:15:03 +0000  /usr/bin/ditto exited with 0
+2024-10-31 03:15:03 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-10-31 03:15:03 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-10-31 03:15:03 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-10-31 03:15:03 +0000  IDEDistributionItem init <DVTFilePath:0x600029d98360:'/var/folders/ls/34dv7fcj6n787npdd3bdm1s00000gn/T/XcodeDistPipeline.~~~v9ZF9Y/Root/Payload/DrillBit.app'>
+2024-10-31 03:15:03 +0000  Processing step: IDEDistributionCreateManifestStep
