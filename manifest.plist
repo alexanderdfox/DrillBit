@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.github.com/</string>
+					<string>https://github.com/alexanderdfox/DrillBit/raw/refs/heads/main/DrillBit.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.github.com/</string>
+					<string>https://avatars.githubusercontent.com/u/21992452?s=96&v=4</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.github.com/</string>
+					<string>https://avatars.githubusercontent.com/u/21992452?s=96&v=4</string>
 				</dict>
 			</array>
 			<key>metadata</key>
